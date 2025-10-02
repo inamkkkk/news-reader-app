@@ -1,0 +1,48 @@
+# Flutter
+.flutter-plugins
+.flutter-plugin-dependencies
+.dart_tool
+.packages
+
+# Android
+android/build/
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/App.framework.dSYM
+ios/Flutter/Flutter.podspec
+
+# macOS
+macos/Flutter/App.framework
+macos/Flutter/App.framework.dSYM
+macos/Flutter/Flutter.podspec
+
+# Web
+web/build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Build output
+build/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crashlytics
+crashlytics_debug.log
+crashlytics_release.log
+
+# Generated files
+**/*.g.dart
+**/*.freezed.dart
